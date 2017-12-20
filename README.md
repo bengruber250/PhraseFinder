@@ -1,1 +1,1 @@
-Intelligently searches through list of 15000 useful phrases based on semantic similarity. For more information, look at phrase_finder.html
+Intelligently searches through list of 15000 useful phrases based on semantic similarity. For more information, look at phrase_finder.html <a href="http://htmlpreview.github.io/?https://github.com/bengruber250/PhraseFinder/blob/master/phrase_finder.html">which is rendered here.</a>
